@@ -1,6 +1,6 @@
 import UIKit
 
-protocol ___VARIABLE_sceneName___DisplayLogic: class {
+protocol ___VARIABLE_sceneName___DisplayLogic: AnyObject {
   func displaySomething(viewModel: ___VARIABLE_sceneName___.Something.ViewModel)
 }
 
